@@ -76,6 +76,7 @@ struct ContentView: View {
                     //test
                     //test
                     //randy
+                    //r
                     VStack{
                         
                         Text("CPU ")
